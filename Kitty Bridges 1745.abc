@@ -1,0 +1,526 @@
+X: 1
+T: the Cooler
+%%VWML:Bridges1745-8084-p1-0
+F: http://www.vwml.org/record/Bridges1745/8084/p1
+B: Kitty Bridges "Collection of Country Dances 1745" p.1
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Added '3' to triplets to satisfy ABC player software. (An 8th and two 16th notes might have been intended.)
+M: C|
+L: 1/8
+K: G
+c |\
+BGdB ecdB | BGdB (3=FAB cA |\
+BGdB ecdA | BG=Fe fA- A :|
+|: g |\
+e/f/g de BG dB | (e/f/g) de A=FcA |\
+(3efg de BG dB | (3ABc =FA =fA A :|
+|: c |\
+BG G/G/G G/G/G ed | BG G/G/G =FA/B/ cA |\
+BG G/G/G G/G/G ed | A/B/c =FA =fA A :|
+|: g |\
+(e/f/g) (e/f/g) BGBG | (e/f/g) (e/f/g) A=FAF |\
+(e/f/g) (e/f/g) BGBG | A/B/c =FA =fA A :|
+W:The Cooler
+W:Set to y.r Part. and Cast off one Coup.l, set
+W:again you cast off another Coup.l your P.r up into
+W:her Place, then set three at bottom and three at
+W:top and turn round the same, Lead out at
+W:bottom & turn in the Middle, then at top and
+W:turn in the Middle. %%endtext
+X: 2
+T: Just a going
+%%VWML:Bridges1745-8084-p2-0
+F: http://www.vwml.org/record/Bridges1745/8084/p2
+B: Kitty Bridges "Collection of Country Dances 1745" p.2
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745 
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The capitalization is inconsistent between the tune and dance.
+N: All the notes in bar 3 are 8th notes; 4-note groups made 16th notes to give a correct total. 
+N: The word "second" is sometimes capitalized, sometimes not, and sometimes the 's' is of intermediate size.
+N: The time signature should probably be C rather than C|, to avoid being hectic.
+M: C|
+L: 1/8
+K: D
+|:\
+f/g/a fd f/g/a fd | gecA gecA |\
+G/F/G/A/ Gg F/E/F/G/ Ff | edcA d2 D2 :|
+|: a |\
+fg/a/ bg ef/g/ af | de/f/ gf e/d/c/B/ AG |\
+FA df Aceg | fdAc d2 D :|
+W:Just a Going
+W:Set with y.r Partner to the Second
+W:Woman and turn all three, then to the
+W:second Man and turn all three, Lead thro'
+W:the second Coup.l and turn hands with
+W:the third, then right and left with the
+W:second Couple. %%endtext
+X: 3
+T: Mosee
+%%VWML:Bridges1745-8084-p3-0
+F: http://www.vwml.org/record/Bridges1745/8084/p3
+B: Kitty Bridges "Collection of Country Dances 1745" p.3
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+N: One of the two groups of notes in the last bar should probably be 16th notes, but it's not obvious which.
+M: C|
+L: 1/8
+K: G
+|:\
+B/A/B/c/ BAGF G2 | (e/f/g) (e/f/g) dgdc |\
+B/A/B/c/ BA GF G2 | (B/c/d) (B/c/d) cB A2 :|
+|:\
+d/c/d/e/ dd ef g2 | c'a (3{g}fed c'a fe/d/ |\
+c/B/c/d/ cd ef gB | cBAG AGAB G2 |]
+W:Mosee
+W:Cross over two Couple and up again
+W:the same, Hands round all four at top.
+W:and right and left.
+%%endtext
+X: 4
+T: Ne'er a Bottom
+%%VWML:Bridges1745-8084-p4-0
+F: http://www.vwml.org/record/Bridges1745/8084/p4
+B: Kitty Bridges "Collection of Country Dances 1745" p.4
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745 
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+N: The spelling and capitalization differs in the tune and dance titles.
+N: The final fed in bar 14 should probably be gfe, to match the first strain's patterns. 
+M: 6/8
+L: 1/8
+K: G
+ |:\
+B2B BAG | c2c cBA | d2d dcB | AGA B2G |\ B2B BAG | c2c cBA | d2d dcB | AGF G3 :| B/c/ |\
+d2d gBc | d2d gBc | d2d g2f | efd ^cBA |\
+f2f fed | g2g fed | a2a agf | ed^c d2 :|"D.C."y
+W:Ne'er a bottom
+W:Lead through the first Coup.l and
+W:on the Outside of the Second, Turn your
+W:Part.r at bottom, Lead through the second
+W:Couple and on the Outside of the first turn
+W:your Partner at top, Hands across all four
+W:at top, then right and left. %%endtext
+X: 5
+T: the Kentish Cricketters
+%%VWML:Bridges1745-8084-p5-0
+F: http://www.vwml.org/record/Bridges1745/8084/p5
+B: Kitty Bridges "Collection of Country Dances 1745" p.5
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745 
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: There is no time signature in this tune.
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+M: none
+L: 1/8
+K: D
+B |\
+AFdB AF DB | AFde {d}c2 EF/G/ |\
+AFdB AFDf | edef ddd d :|
+|:\
+d/e/f/g/ afbg ag | edef e/e/e e2 |\
+d/e/f/g/ afbg af | edef d/d/d d2 :|
+W:The Kentish Cricketters
+W:Hands across quite round with the
+W:2d Coup.l then back again, Cross over two
+W:Coup.l Lead up to the top and Cast off
+W:One Couple, Set and Corners and lead
+W:out at the Sides. %%endtext
+X: 6
+T: the Merry Councellor
+%%VWML:Bridges1745-8084-p6-0
+F: http://www.vwml.org/record/Bridges1745/8084/p6
+B: Kitty Bridges "Collection of Country Dances 1745" p.6
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745 
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The tune has no time signature.
+N: Bar 6 has 5 8th notes in the first beamed group; not fixed.
+N: The word "to" occurs twice in succession in the dance.
+M: none
+L: 1/8
+K: G
+Bc |\
+dBGg e2dB | caaB A2Bc |\
+dBGg e2dB | gddB G2 :|\
+|: Bc |\
+d>ed>B d>edB | gb-bag a2Bc |
+d>ed>B gdcB | edcB A2Bc |\
+dBGg e2dB | caaB A2Bc |\
+dBGg e2dB | gddB G2 :|
+W:The Merry Councellor
+W:Set across and turn, Then set to
+W:to your Part.r and cast off one Coup.l and
+W:Right and left with the top Coup.l, Then
+W:set and cast round Corners.
+%%endtext
+X: 7
+T: the Four Drunken Maids
+%%VWML:Bridges1745-8084-p7-0
+F: http://www.vwml.org/record/Bridges1745/8084/p7
+B: Kitty Bridges "Collection of Country Dances 1745" p.7
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The tune has no time signature.
+M: none
+L: 1/8
+K: G
+GA |\
+BGAF E3G/A/ | BGdB {B}A2GA |\
+BGAF E3G/A/ | BGdB G3 :|\
+|: B |\
+cBcd efge | dBgB A3G/A/ |\
+BGAF E3G/A/ | BGdB G3 :|
+W:The Four Drunken Maids
+W:Lead thro' the first coup.l and on the
+W:Outside of the 2d then turn your Part.r lead
+W:thro' the 2d Coup.l and on the Outside of the
+W:1st then turn your Part.r cross [over?] two coup.l
+W:lead up to the Top foot it and Cast off. %%endtext
+X: 8
+T: Jaque's Ramble
+%%VWML:Bridges1745-8084-p8-0
+F: http://www.vwml.org/record/Bridges1745/8084/p8
+B: Kitty Bridges "Collection of Country Dances 1745" p.8
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: A
+|:\
+Acc Bdd | Acc d2f |\
+e>dc Bcd | cAA A2 E :|\
+|:\
+A/B/c/d/e/f//g// Ha3 | fdd d3 |
+B/c/d/e/f/g//a// Hb3 | gee e3 |\
+A/B/c/d/e/f//g// Ha3 | fdd def |\
+cAA dBB | cAA A3 :|
+W:Jaque's Ramble
+W:Cast back One Coup.l and turn y.r Part.r
+W:then cast back the 2d Coup.l and turn y.r Part.r
+W:cross up two Coup.l and fall back into the 2d
+W:Coup.l's places, then right and left with the
+W:third Couple. %%endtext
+X: 9
+T: Quite Prodigious
+%%VWML:Bridges1745-8084-p9-0
+F: http://www.vwml.org/record/Bridges1745/8084/p9
+B: Kitty Bridges "Collection of Country Dances 1745" p.9
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The tune has no time signature.
+M: none
+L: 1/16
+K: F
+f2 |\
+f2c2c2A2 A2F2F2c2 | (def2) gab2 a4 g2c2 |\
+(def2) c2A2 def2 c2A2 | def2 c2A2 G6 :|
+|: g2 |\
+gfef g2G2 c4 d2G2 | c4 d2G2 edcd e2f2 |\
+gfef g2B2 A2b2a2g2 | agfg c2e2 f6 :|\
+W:Quite Prodigious
+W:Set to your Part.r and turn, then to the
+W:2d Wom.n your Part.r to the 2d Man and
+W:turn, Fall down two Coup.l you on the Wom.n's
+W:side your Part.r on the Man's Slip up into
+W:your Places then Slip down One Coup.l %%endtext
+X: 10
+T: the Bed Chamber
+%%VWML:Bridges1745-8084-p10-0
+F: http://www.vwml.org/record/Bridges1745/8084/p10
+B: Kitty Bridges "Collection of Country Dances 1745" p.10
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The rhythms are incorrect at the strain boundaries; not fixed.
+N: Several measures have note lengths that don't add up to 6/8; not fixed.
+M: 6/8
+L: 1/16
+K: G
+Bc |\
+d2B2G2 D4EF | G2E2F2 G4Bc |\
+d2B2G2 D4EF | G2E2F2 D4 :|\
+FG |\
+A2A2B2 ABcB2 FG | A2A2A2 A4FG |
+A2A2B2 A/B/cB2 FG | A2A2B2 A4d2 \
+|:\
+BGBGBG | FDFDFD | BGcAdB d2 |\
+BGBGBG FDFDFD | F2D2F2 G4d2 :|
+W:The Bed Chamber
+W:Your Part.r fall back one coup.l you
+W:follow her, back again and turn Hands
+W:You set to the 2d Wom.n your Part.r to the
+W:2d Man and turn, your Part.r fall down
+W:the Middle you after her, Then your Part.r
+W:set to the 3d Man, you to the 2d Wom.n
+W:and turn in the Middle. %%endtext
+X: 11
+T: Drops of Brandy
+%%VWML:Bridges1745-8084-p11-0
+F: http://www.vwml.org/record/Bridges1745/8084/p11
+B: Kitty Bridges "Collection of Country Dances 1745" p.11
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+N: This tune didn't have dots after any notes, even when the next note was a 16th note; dots added. M: 9/8
+L: 1/8
+K: G
+ |:\
+G>AB B>AB B>AB | G>AB B>GB d2g |\ G>AB B>AB B>AG | F>GA dAF A2B :|
+|:\
+G>AB gdB gdB | G>AB gdB d2e |\
+G>AB gdB gdB | fga A2B cBA |]
+ W:Drops of Brandy
+W:Set to your Part.r and turn, then set
+W:to the second Wom.n your Part.r to the 2d
+W:Man and turn, cross over two Coup.l lead
+W:up to the top and cast off. Set at Corners
+W:and turn, and lead out at Sides. %%endtext
+X: 12
+T: Frisk it
+%%VWML:Bridges1745-8084-p12-0
+F: http://www.vwml.org/record/Bridges1745/8084/p12
+B: Kitty Bridges "Collection of Country Dances 1745" p.12
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Added missing bar line between bars 7, 8; removed extra bar line from last bar.
+N: Bar 10 has an extra quarter note; not fixed. (The AGFE should probably be 16th notes.) M: C|
+L: 1/8
+K: G
+|:\
+B2cB A2BA | G2AF GDB,G, |\
+(3BcB (3ABA (3GAG (3FGF | EAAF G2G,2 :|
+GBAc Bdce | d2ed/^c/ d2D2 |\
+gb2a/g/ fa2g/f/ | edA^c d2"D.C."D2 |]
+|:\
+g2a2 bgd2 | gdBG AGFE D2 |\
+g2a2 bgdg | {g}fe/d/ ed/^c/ d2D2 :|
+|:\
+GccB dBe2 | BA/B/ c/B/A/G/ A/G/F/E/ D2 |\
+GccB dBe2 | BA/B/ c/B/A/B/ G2G,2 :|
+W:Frisk it
+W:Set to y.r P.r cast off & turn, set again cast off
+W:another Coup.l & turn, lead up to the top, set, cast off, right
+W:& left w.th 3d Coup.l, Hands across w.th the 2d & 3d Woman
+W:then w.th the 2d and 3d Man, Then set to your P.r
+W:cast round Corners and turn her in the Middle. %%endtext
+X: 13
+T: Prince George
+%%VWML:Bridges1745-8084-p13-0
+F: http://www.vwml.org/record/Bridges1745/8084/p13
+B: Kitty Bridges "Collection of Country Dances 1745" p.13
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: This tune has no time signature.
+M: none
+L: 1/16
+K: Gm
+|:\
+G2B2 A2d2 B2AG ^F2=ED | G2B2A2d2 B3A G3D :|\
+|:\
+B2d2c2f2 {e}d2cB c2F2 | B2G2e2d2 Tc4 B4 |\
+A2AB c2BA d2G2^F2g2 | gfed edcB TA4 G4 :|
+W:Prince George
+W:Set to your Part.r cast off and turn
+W:the third Wom.n w.th your right Hand fall
+W:back w.th the 3d Coup.l and foot it, your Part.r
+W:at the same time turn the 2d Man & fall
+W:back w.th the 1st Coup.l and foot it, The
+W:Reverse, foot it to your Part.r and turn. %%endtext
+X: 14
+T: Bread and Cheese
+%%VWML:Bridges1745-8084-p14-0
+F: http://www.vwml.org/record/Bridges1745/8084/p14
+B: Kitty Bridges "Collection of Country Dances 1745" p.14
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: This dance marks the phrases with the dots&lines icons, but in no logical fashion.
+M: C|
+L: 1/16
+K: G
+a2g2 |\
+f2d2d2d2 d4c4 | B2G2G2G2 B2d2d2ag |\
+f2d2d2d2 e4^c4 | a2A2A2A2 (^c2e2e2) :|
+|: g2 |\
+fgaf efge fgaf efge | g2G2G2G2 B2d2d2g2 |\
+fgaf efge fgaf efge | a2A2A2A2 (^c2e2e2) :|
+W:Bread and Cheese
+W:Cast off two Cup.l .| cast up again :|
+W:Change Places and hands round all four
+W:.| Foot it to your Partner, Right
+W:hand and left.
+%%endtext
+X: 15
+T: So she bid me tell you
+%%VWML:Bridges1745-8084-p15-0
+F: http://www.vwml.org/record/Bridges1745/8084/p15
+B: Kitty Bridges "Collection of Country Dances 1745" p.15
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The 2nd strain has initial repeat but no final repeat; not fixed.
+M: 6/8
+L: 1/8
+K: G
+|:\
+G2G GBG | GBG Bcd | G2G GBG | FGA AFD |\
+G2G GBG | GBG def | gfe dcB | AcG FED :|
+|:\
+Bcd ded | ded dcB | cde efe | efe edc |\
+Bcd def | gfe def | gfe dcB | ABG FED |]
+W:So she bid me tell you
+W:First Cu. gallop down 2 Cu. up again to
+W:the Top and cast off into the 2d Cu. place
+W:.| 2d Cu. do the same :| 1st Cu. cross over
+W:and half figure .:| Hands all four half
+W:round and Right and left. %%endtext
+X: 16
+T: Trip to Farley
+%%VWML:Bridges1745-8084-p16-0
+F: http://www.vwml.org/record/Bridges1745/8084/p16
+B: Kitty Bridges "Collection of Country Dances 1745" p.16
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+[|\
+a2{g}Tf2 gefd | Adcd e/d/c/d/ eA |\
+a2{g}Tf2 gefd | Ad c/d/e/c/ d2D2 |]\
+[|\
+Ad AG Fd AG | FA de Tf2 e2 |\
+Ad AG Fd Ag | f/g/a Ac d2 D2 |]
+W:Trip to Farley
+W:First man set to the 2d Woman
+W:and turn .| His Partner the same
+W:w.th the 2d Man :| Set four and turn
+W:.| cross over and turn :|:
+%%endtext
+
+X: 17
+T: We are all a Coming
+%%VWML:Bridges1745-8084-p17-0
+F: http://www.vwml.org/record/Bridges1745/8084/p17
+B: Kitty Bridges "Collection of Country Dances 1745" p.17
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: Version for ABC software that understands voice overlays.
+N: The initial Segno symbol makes no sense.
+M: 2/4
+L: 1/16
+K: G
+!segno!\
+dcBc |\
+dcBc d2ga | b4 agfe |\
+dcBA G2FE | D4 dcBc |\
+dcBc d2ga | b4 agfe |\
+dcBA BAGF | HG4 :|\
+|: GABc |
+Bcd2 efg2 | d4 efa2 |\
+agfe d2c2 | Tc2B2 g4 |\
+x4 e4 & g4 cBc2 | A4 agfg |\ agfg a2b^c' | d'4 agfg |\ agfg agfe | d4 :|
+W:We are all a Coming
+W:First Man foot it to the 2d Wo. and turn
+W:Single then turn his Part.r .| first Wo. do
+W:the same :| 1st Cu. cross over and half figure
+W:at the top w.th the 2d Cu. .| then the whole
+W:figure at bottom w.th the 3d Cu. and turn
+W:Partners.
+%%endtext
+X: 18
+T: Pau, Paw.
+%%VWML:Bridges1745-8084-p18-0
+F: http://www.vwml.org/record/Bridges1745/8084/p18
+%R: reel
+B: Kitty Bridges "Collection of Country Dances 1745" p.18
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 2/4
+L: 1/16
+K: D
+ab |\
+Ta2gf Tg2fe | {e}f4 z2e2 |\
+(fd)(ge) afbg | {f}e4 z2 ab |\
+Ta2gf Tg2fe | {e}f6 e2 |\
+fgad' f2Te2 | d4 z2 |]
+AB |\
+A2AB A2AB | A6 e2 |\
+fdge afbg | {f}e4 z2AB |\
+A2AB A2AB | A6 e2 |\
+fgad' f2e2 | d4 z2 |]
+W:Pau, Paw,
+W:The 1st Man set to the 2d Wo. and turn
+W:single, then turn her, the 2d Man do the same.
+W:cross over and figure thro' the 1st Cu. then right
+W:and left quite round, then lead thro' the 3d
+W:Cu. and thro' the 2d Cu. then cast off and turn
+W:your Partners. %%endtext
+X: 19
+T: Aurotti's Dutch Skipper
+%%VWML:Bridges1745-8084-p19-0
+F: http://www.vwml.org/record/Bridges1745/8084/p19
+B: Kitty Bridges "Collection of Country Dances 1745" p.19
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: 6/8
+L: 1/8
+K: Bb
+F |\
+BFB dcB | cAF e3 | dcB A/B/cA | BFD B,2D |\
+BFB dcB | cAF cde | dcB FBA | B3- B2 :|
+|: F |\
+Bdf fdB | ceg g2F | Bdf fdB | Acc c2F |\
+Bdf fdB | cba b2e | dcB FBA BFD B,2 :|
+W:Aurotti's Dutch Skipper
+W:The first Man cast off behind the Second
+W:Man and turn his Part.r once round the 1st
+W:Wo. do the same w.th the secong Man The
+W:1st Cu being in the 2d Cu. place go the double
+W:figure thro' the 3d Cu. and turn each other. %%endtext
+X: 20
+T: Topsy Turvy
+%%VWML:Bridges1745-8084-p20-0
+F: http://www.vwml.org/record/Bridges1745/8084/p20
+B: Kitty Bridges "Collection of Country Dances 1745" p.20
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/8
+K: F
+|:\
+fcfc fa2g/f/ | ecec eg2f/e/ |\
+fcfc Ac2B/A/ | Bd2c/B/ A2F2 :|
+|:\
+Bd2c/B/ AF A/B/c/A/ | bg2f e2c2 |\
+Bd2c/B/ AF A/B/c/A/ | af2c A2F2 :|
+W:Topcy Turvy
+W:The 1st Man set and turn single then
+W:turn the 2d Wo. .| First Wo. do the same
+W::| Then 1st Cu. lead up, and 2d Cu. lead
+W:down, then right and left quite round Clap
+W:and cast off and double figure at the bottom
+W:then clap lead up and cast off. %%endtext
+X: 21
+T: Alister
+%%VWML:Bridges1745-8084-p21-0
+F: http://www.vwml.org/record/Bridges1745/8084/p21
+B: Kitty Bridges "Collection of Country Dances 1745" p.21
+F: http://www.vwml.org/browse/browse-collections-dance-tune-books/browse-bridges1745
+Z: 2015 John Chambers <jc:trillian.mit.edu>
+N: The tune has no time signature.
+N: Repeats adjusted to match "The first Strain twice the last once."
+M: none
+L: 1/8
+K: Gm
+|:\
+G2g2 fdcd | BFFD F2F2 |\
+G2g2 fdcd | BGA^F G2G2 :|\
+|:\
+F>AB>c d>Bc>d |
+BGA^F G2G2 |\
+F>AB>c d>Bc>d | BFFD F2F2 |\
+d=e/^f/ gd =fccd | BGA^F G2G2 |]
+W:Alister
+W:Cast down two Coup.l and up again. Cross
+W:over two Coup.l lead up the middle and
+W:Cast off. Foot it corners and turn, then
+W:lead out Sides.
+%%endtext
