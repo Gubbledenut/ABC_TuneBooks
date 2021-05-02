@@ -239,33 +239,7 @@ K:G
 |: G/B/ |d2Bd2B | d2d d(gf) | e2c cBA | d2c B2A |
 GFG B2A | GFG B2A | GFG Aed | cBA G2 :|
 
-
 X:48
-T:Daughter of Israel, The
-T:Song
-S:John Moore's Book 2
-Z:Transcribed by Edmund Spriggs 04/2021
-%%VWML: Moore1-4494-p46-0
-F:http://www.vwml.org/record/Moore2/4494/p46
-M:C|
-L:1/8
-K:F
-C|A2BA G2AG|F2EF G2FG|A2 fc edBG|(F4{G/F/} E2)FG|
-w:A daughter_ of_ Israel_ sat by a stream and the waters came_ mur_muring_ by_like the
-A2AA =B2BB|c2=Bc d2cd|e2d/c/=B/A/ G2AB|c4z2|]
-w:shadow_ that ??flits?? through the soul of a dream when the storm clouds_ have_ darkened the_ sky.
-c2|_B2cB A2BA|A2GF G2AB|Acfc edBG|(F4{G/F/} E2)FG|
-w: The clear light that shone in her sweet beamimg eye_ and [charmed]_ her as one_ of the free and
-A2AA B2AB|c2fe!fermata!d3d|d2cA c2BG|(B4{c/B/} A2)FG|
-w:these were the words she_ breathed with a sigh I weep land of Judah_ for thee_ and
-A2AA B2AB|c2fe!fermata!d3d|d2cA c2BA|F4z2:|
-w:these were the words she_ breathed with a sigh I weep land of Judah_ for thee.
-
-%abc
-%%abc-alias none
-%%abc-creator ABCexplorer 1.6.1 [29/04/2021]
-
-X:49
 T:Maid of Lodi, The
 T:Air
 S:John Moore's Book 2
@@ -281,7 +255,7 @@ F2Dd2F|A Gz1z2G|F2Dd2{^c/ d/ =c/ A/} F|G3z2D|
 d2d{e/} d {c} B {A} G|F E2 !fermata!(e3 {^de fg e})|(dB) G (Ad) F|G3z2D|
 d2d{e/} d {c} B {A} G|FE2 !fermata!(e3 {g f b g f e)}| (dB) G (Ad) F|{A}G2 {F/}|]
 
-X:50
+X:49
 T:Railway Hornpipe, The
 R:Hornpipe
 S:John Moore's Book 2
@@ -296,7 +270,7 @@ g2 ((3fed) ((3edc) ((3BAG)|FGAB cedc|Bdgf ebag|g2b2g2:|
 |:defg defg|agfg agfe|dbca BgAf|da ((3gfe) d2ef|
 g2 ((3fed) ((3edc) ((3BAG)|FGAB cedc|Bdgf ebaf|g2b2g2:|
 
-X:51
+X:50
 T:Ironbridge Hornpipe, The
 R:Hornpipe
 S:John Moore's Book 2
@@ -311,7 +285,7 @@ B2B2FBdB|cBcd edcB|ABcd cBAG|F2fg fedc|
 |:cfag fgfe|dfbag2gf|efgf edcB|((3cdc) ((3BAG) F2fe|
 dfdB FBdf|gagf edcB|((3ABc) ((3BAG)F2 GA|B2b2B2:|
 
-X:52
+X:51
 T:Buy A Broom
 T:Song, A
 S:John Moore's Book 2
@@ -324,7 +298,7 @@ K:C
 c/e/|gg/a/g/f/|ecc|dGG|ecc|gg/a/g/f/|(ec)c|(dG)G|c2:|
 |:(dG)G|(ec)c|(dG)G|(ec)c|gg/a/g/f/|(ec)c|(dG)G|c2:|
 
-X:53
+X:52
 T:Lady Bell Catherine
 T:Dance
 S:John Moore's Book 2
@@ -339,7 +313,7 @@ d2ed/e/|faaf|gedc|d2z2:|
 |:A2|FAAG|EAAG|FAdf|e/d/c/B/ AA/G/|
 FAAG|FAAf|gfed|a2 a/g/"D.C."f/e/:|
 
-X:54
+X:53
 T:Quadrille
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -353,7 +327,7 @@ g2B BcB|BcB e2d|g2de2d|cBA G2:|
 |:d3 def|g3 gfg|a3 aga|b3g3|
 d3 def|g3-g2b|baf age|ded de!segno!f"D.C.":|
 
-X:55
+X:54
 T:Daughter of Israel, The
 T:Song
 S:John Moore's Book 2
@@ -374,7 +348,7 @@ w:these were the words she_ breathed with a sigh I weep land of Judah_ for thee_
 A2AA B2AB|c2fe!fermata!d3d|d2cA c2BA|F4z2!fermata!:|
 w:these were the words she_ breathed with a sigh I weep land of Judah_ for thee.
 
-X:56
+X:55
 T:Worster Hornpipe, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -389,7 +363,7 @@ A2A2 Acec|defg agaf|eagf edcB|A2A2A2:|
 |:cd|e2(ce) (Ae)(ce)|f2(df) (Bf)(df)|e2(ce) (Ae)(ce)|(EB)(GB) (EB)(GB)|
 e2(ce) (Ae)(ce)|defg agaf|eagf edcB|A2A2A2:|
 
-X:57
+X:56
 T:I'd be a Butterfly
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -405,7 +379,7 @@ A2AA|B2(ge)|d2^c2|d>e d/c/B/A/|
 B2c>c|d(dG2)|g2(fe)|e2(dc)|
 B2c>c|d>d ec|B2A>F|G2z2:|
 
-X:58
+X:57
 T:Maid of Judah, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -427,7 +401,7 @@ d2dd d2dd|dfed ed^cB|B2AF B2GE|E6"Da Capo"D2:|
 %%abc-alias none
 %%abc-creator ABCexplorer 1.6.1 [30/04/2021]
 
-X:59
+X:58
 T:Hornpipe, A
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -443,7 +417,7 @@ d>Be>c B>Ac>A|G>FA>F G2e>c|B>Ac>A G>FA>F|G2 G>GG2:|
 |:B>c|d>Bg>f edcB|e>def g2g>f|edcB AGFE|D2d>d d2A>F|
 D>FA>F G>Bd>B|c>eg>e d>Be>c|B>Ac>A G>FA>F|G2G>G G2:|
 
-X:60
+X:59
 T:Dance
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -458,7 +432,7 @@ G2 d>B|G2d>Bc>A G>F|G4:|
 |:d2g>f|(e>d)(c>B)|A>Bc>d|B2G2|
 d2g>f|e>dc>B|A>c A>c|G4:|
 
-X:61
+X:60
 T:Cuckoo Solo, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -485,7 +459,7 @@ c/e/B/e/ A/e/B/e/ c/e/B/e/ A/e/B/e/|c/e/B/e/ A/e/B/e/ c/e/B/e/ A/e/B/e/|d/c/B/c/
 A/B/c/d/ ea ag z1 f|e2d2 cEAd|c2B2 A2 z1 E|E/F/G/A/ Bc dc z1 B|
 A/B/c/d/ ea ag z1 f|e2d2 cEAd|c/d/e/f/ cBA4|]
 
-X:62
+X:61
 T:God save the King
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 04/2021
@@ -500,4 +474,242 @@ d2d2e2|c3de2|f2f2g2|f3ed2|
 e2d2c2|d4:|
 |:a2a2a2|a3gf2|g2g2g2|g3fe2|
 f2gfed|f3ga2|b/a/g/f2e2|d6:|
+
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.6.1 [01/05/2021]
+
+X:62
+T:Favorite Pandean Dance, A
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p62-0
+F:http://www.vwml.org/record/Moore2/4494/p62
+N:The grace note in the first bar of the first strain should be e, not d.
+N:The second a in the third bar of the second strain should be a quaver, not a crotchet.
+N:At the end of the tune, "D Capo" should be "Da Capo".
+M:6/8
+L:1/8
+K:D
+A|d2d {d/}dcd|B2B Bed|(cB)A ABc|{e/}d2fa2A|
+d2d {e/}dcd|B2B Bed|(cB)A ABc|1d3"Fine"d2:|2dfed2|]
+f|g2e (ef)e|c2A (AB)A|a2a2 (ab)a|f2dd2A|
+dcd ede|fef gfg|(ab)a agf|!fermata!f3"D Capo"!fermata!e2|]
+
+X:63
+T:Prime of Life
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p62-0
+F:http://www.vwml.org/record/Moore2/4494/p62
+N:The sharp sign in bar 4 is redundant.
+M:C
+L:1/8
+K:G
+d2dB (dB)dg|(gd)dBG2G2|A2AB (cB)ce|(ed) d^FG2G2:|
+|:.d2.g2.f2.g2|.f2.g2a3b|c'2b2a2(bg)|fdef g2g2:|
+
+X:64
+T:Opera Hornpipe, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p63-0
+F:http://www.vwml.org/record/Moore2/4494/p63
+M:2/4
+R:Hornpipe
+N:MS or MJ is written to the right of the title in the manuscript.
+L:1/8
+K:D
+A|d/>c/d/>f/ (a/>g/)e/>c/|d/>c/d/>f/ (a/>g/)e/>c/|d/>f/e/>g/ f/>a/g/>f/|a/>g/e/>d/ c/>A/B/>c/|
+d/>c/d/>f/ (a/>g/)e/>c/|d/>c/d/>f/ (a/>g/)e/>c/|d/>f/a/>f/ b/>g/e/>c/|ddd:|
+|:A/>^G/|A/>c/e/>c/ A/>c/e/>a/|g/>f/g/>e/ d/>c/B/>A/|d/>f/a/>f/ d/>g/b/>a/|b/>g/e/>d/ c/>A/B/>c/|
+d/>c/d/>f/ a/>g/e/>c/|d/>c/d/>f/ a/>g/e/>c/|d/>f/a/>f/ b/>g/e/>c/|ddd:|
+
+X:65
+T:St Vincent's Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p64-0
+F:http://www.vwml.org/record/Moore2/4494/p64
+M:C
+R:Hornpipe
+N:
+L:1/8
+K:Bb
+fe|dcBA BcdB|((3cdc) ((3BAG)F2FE|DFBF GecA|B2B>BB2z2|
+dBdf eceg|fdfa gega|bagf =ef ((3gab)|a2f2f2:|
+|:fe|d>B ((3BAB) d>B ((3BAB)|G>E ((3EDE) G>E ((3EDE)|cBcd edcB|A>F ((3F=EF) A>F ((3FEF)|
+f>B ((3BAB) g>B ((3BAB)|gfga b>B ((3BAB)|Ggfe dcBA|c2B2B2:|
+
+X:66
+T:Madam Catalani's Waltz
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p65-0
+F:http://www.vwml.org/record/Moore2/4494/p65
+M:3/8
+L:1/8
+K:C
+G/F/|EG/c/e/g/|f/d/B/G/B/G/|c/G/c/d/e/f/|d2G/F/|
+EG/c/e/g/|f/d/B/G/B/G/|c/G/c/e/d/B/|c2:|
+|:((3d/e/^f/)|gg a/^f/|gg a/^f/|(g/^f/)(g/f/)a/f/|g>fe/d/|
+c/G/c/e/^f/g/|=f/d/B/G/B/G/|c/G/c/e/d/B/|c2:|
+
+X:67
+T:Untitled 2/4 tune in D
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p65-0
+F:http://www.vwml.org/record/Moore2/4494/p65
+M:2/4
+L:1/8
+K:D
+f2(f/g/f/e/)|(d/c/d/e/) dA|dAeA|(f/e/f/g/) (a/g/f/e/)|
+f2(f/g/f/e/)|(d/c/d/e/) dA|df/a/ (a/g/)(g/f/)|(f2e2):|
+|:A>B (c/d/).e/.f/|(e/d/).c/.B/ (AB/c/)|df/a/ (b/g/)(g/f/)|(f2e2)|
+a2a/b/a/g/|f/e/f/g/ ad/f/|{b}gedc|c2d2:|
+
+X:68
+T:Brooms on Crowdeknows, The
+T:Song
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p66-0
+F:http://www.vwml.org/record/Moore2/4494/p66
+M:C
+N:Tune continues on page 67.
+N:Crotchets in bars 21 and 22 should be quavers. Marked NB.
+L:1/8
+K:G
+(d<c)|(B<G)(A<c){c}B2A<G|(B<d)(c<e){e}d2(c<B)|e<gc<e A<cE<A|G2F2z2A2|
+(d<A)(B<c) (B<G) (B<d)|(g<d)(e<=f){f}e3^f|(g<e)(f<d) (B<g)(.e<^c)|^c2d4d=c|
+Bd GB EG ce|dB GBc3B|(ce)(dB) (Ac)(BG)|{G2}F4z2d2|
+(gf)d'f (fe) c' e|(ed) b c (cB) g c|((3Bge) ((3dBG) E<cA<F|G4z4|
+(d<B)(B<G)e3g|(d<B)(B<G)g3d|e3d (cB)(AG)|({G2}F4)z2d2|
+(ge) d'f2fe c'e2|(ed) bc2(cB) g c|((3Bge) ((3dBG) E<cA<F|{F2}G4z2d2|
+(gf)(d'f) (fe)(c'e)|(ed)(bc) (cB)(gc)|((3Bge) ((3dBG) E<cA<F|G4"Da Capo"z2:|
+
+X:69
+T:Astleys Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p67-0
+F:http://www.vwml.org/record/Moore2/4494/p67
+R:Hornpipe
+M:C
+N:Bar 11 is unclear in the manuscript.
+L:1/8
+K:G
+GABc dBAG|agfee2dc|BdBG cecA|BdBG GFED|
+GABc dBAG|agfee2dc|BdBG cecA|G2F2G4:|
+|:defg fafd|gbgd fafd|defg ac{e}c2|BdBG FAFD|
+BdBG cecA|Fafd Gbge|Bgfe dcBA|G2F2G4:|
+
+X:70
+T:Hunt the Hare
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p68-0
+F:http://www.vwml.org/record/Moore2/4494/p68
+M:6/8
+N:Three semiquavers in the first bar should be marked as triplets.
+N:Second note in bar 3 should be a quaver.
+N:The two quavers at the start of the second strain should be semiquavers.
+N:Last note in bar 8 should be a dotted quaver.
+L:1/8
+K:D
+A/B/c/|d2D FGA|Bed cBA|d2D2 FGA|Becd2:|
+|:de|fed fed|fed fed|ced ced|Bgfe2|
+d2D FGA|Bed cBA|d2D FGA|Becd2:|
+
+X:71
+T:Gaby Boy, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p68-0
+F:http://www.vwml.org/record/Moore2/4494/p68
+M:6/8
+N:Note values in bar 13 are unclear.
+N:Last note in the last bar of the second strain should be E.
+N:The first strain is marked with three sharps and the second strain with two sharps.
+L:1/8
+K:A
+(A/B/)|c2A ABA|E2AA2A|B2G GBd|dBG GAB|
+c2A ABc|d2B Bcd|edc BAB|E2AA2:|
+K:D
+|:B|c2de2f|g3e3|a2fg2e|dBG GAB|
+"N.B."c2A ABc|d2B Bcd|edc BAB|D2AA2:|
+
+
+
+
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.6.1 [02/05/2021]
+
+X:72
+T:Elfrida
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p69-0
+F:http://www.vwml.org/record/Moore2/4494/p69
+M:6/8
+N:"Da Capo" is partly illegible in the manuscript.
+L:1/8
+K:D
+fef d2A|fef d2A|d2f d2f|a^ga e3|
+fef d2A|fef d2A|d2f d2f|agf d3|]
+cBA e2c|g2e ceA|d2e f2g|agf e3|
+cBA e2c|g2e a2c|Bcd ef^g|a3 a"Da Capo"=ge|]
+
+X:73
+T:Tyrolese Waltz
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p69-0
+F:http://www.vwml.org/record/Moore2/4494/p69
+M:3/4
+N:The last three notes in bars 14 and 15 should be marked as triplets.
+L:1/8
+K:F
+C2|F>F A>A c>c|a2f z1((3fef)|g2b z1((3ede)|f2a z1C2|
+F>F A>A c>c|a2f z1((3fef)|(g2b) z1{f/}((3ede)|f4:|
+|:f>f|(e2g) z1f>e|(f2a) z1g>f|(e2g) z1f>e|(f2a) z1C2|
+F>F A>A c>c|a2f z1{g/}fef|g2bz1 f/}ed.e|f4:|
+
+X:74
+T:Huntsman's Chorus, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p70-0
+F:http://www.vwml.org/record/Moore2/4494/p70
+M:2/4
+N:1. The tune runs over to page 71.
+N:2. The last note of the first strain should be a dotted quaver.
+N:3. Bar line missing.
+N:4. The crotchet c should be a quaver.
+N:5. The crotchet a should be a quaver.
+L:1/8
+K:D
+A|d2d/e/f/g/|(a2f)f|ea ea|f/g/f/e/ dA|
+d2d/e/f/g/|(a2f)f|{f/}ed/e/fe|d2|]
+A|d2d/e/f/g/|(a2f)f|ea ea|f/g/f/e/ dA|
+d2d/e/f/g/|(a2f)f|ea c'b|a3|]
+e|f2ff|d2dd|g2gg|e2eA|
+f2ff|d2dd|g2gg|e2z1A|
+f2ff|g2gg|e2f/e/d/e/|f2dd|
+{a}g2gg|f/e/d/e/ fe|d2z1A|A A/A/ A A/A/|
+A A/A/ A A/A/|(d2A)f|(d2A)f|{a/}ge {a/}ge |
+{a/}ge {a/}ge|(d2A)f|(d2A)f|{a/}ge {a/}ge |
+{a/}ge {a/}ge|fd/f/a2|fd/f/a2|fd/d/ df|
+!fermata!e4|(d2A)f|(d2A)f|{a/}ge {a/}ge|
+{a/}ge {a/}ge|(d2A)f(d2A)f|{a/}ge {a/}ge |
+{a/}ge {a/}ge|f(d/f/)a2|f(d/f/)a2|fd/d/ dd|
+d2c2a/a/|a2f/f/ fd'/d'/|d'a/a/ af/f/|f2 e/>d/c/>B/|
+A2Fa/a/|af/f/ fd'/d'/|d'a/a/ af/f/|f2 e/>d/c/>e/|
+d/>c/d/>^d/ e/>c/A/>c/|d/>c/d/>^d/ e/>c/A/>c/|dd/d/ df|d2z1|]
+
 
