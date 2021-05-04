@@ -1153,3 +1153,254 @@ A2Fa/a/|af/f/ fd'/d'/|d'a/a/ af/f/|f2 e/>d/c/>e/|
 d/>c/d/>^d/ e/>c/A/>c/|d/>c/d/>^d/ e/>c/A/>c/|dd/d/ df|d2z1|]
 
 
+
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.6.1 [03/05/2021]
+
+X:92
+T:Wrexham Quick March
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p92-0
+F:http://www.vwml.org/record/Moore2/4494/p92
+M:2/4
+N:The tune is written with two sharps but should have one sharp.
+N:Last note in first and second strains should be dotted.
+N:In bar 15, the first semiquaver lacks its ledger line in the manuscript.
+N:Third strain has a repeat mark at the beginning but not at the end.
+N:In the third strain, the bar line between bar 6 and bar 7 is redundant.
+N:In the third strain, the second note of the penultimate bar should perhaps be a quaver.
+L:1/8
+K:D
+d|gddd|dBBB|cBcd|e2z1f|
+gfed|g>aba|g2f2|g2:|
+f/g/|aaaa|bagg|bbbb|c'aa>a|
+b>ga>f|g>efg|a>b a/g/f/e/|de d/c/B/A/|
+Gddd|dBBB|cBcd|edef|
+gfed|g>aba|g2f2|g2:||
+|:d/B/|Bgfg|egdg|cd/e/ dc|B2z1d/c/|
+Bgfg|e/g/f/g/|d/g/f/g/|e c'/b/a/g/f/|g3|]
+
+X:93
+T:Wounded Hussar, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p93-0
+F:http://www.vwml.org/record/Moore2/4494/p93
+M:6/8
+N:The last bar in the manuscript is partly illegible.
+L:1/8
+K:Bb
+G/F/|DGA B2G/ G/|A/B/ c/B/ A/G/ F G A|B d B c B/A/ G/F/|D G G G2G/F/|
+DGA B2A/ G/|A/B/ c/B/ A/G/ F G A|f> e d c A F|DGG !fermata!G2|]
+G/G/|B d d d2 c/ B/|A c c c2 f|d> g f g> a b|d g f !fermata!g2 g/a/|
+b2 g f e d |d/c/ B/B/ f (F G>) A/ A/|B d B d/c/ B/A/ G/F/|D G/ G !fermata![B2G2]|]
+
+X:94
+T:Hare, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p93-0
+F:http://www.vwml.org/record/Moore2/4494/p93
+M:6/8
+L:1/8
+K:G
+BGG G3|cAA A3|gfe dec|BGG G3:|
+|:bg/a/b G2a|gf/g/aF2a|gfg eag|fdd d3|
+ece g/a/bB|dBd g/a/bB|cBc Adc|BGG G3:|
+
+X:95
+T:Rossingal Waltz, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p94-0
+F:http://www.vwml.org/record/Moore2/4494/p94
+M:3/8
+N:The tune runs on to page 95.
+N:The second strain has repeat marks at the beginning but not at the end.
+N:The second strain has a segno above the bar lines at the end of the strain and DC below them.
+N:The meaning of Da Capo at the end of the tune is unclear when the segno and DC
+N:at the end of the second strain are considered.
+N:"Pia" and "For", which are written above the third strain, may mean Piano and Forte.
+L:1/8
+K:C
+((3g/a/g/)|c'z ((3g/a/g/)|ez ((3c/d/c/)|G2c|ez ((3g/a/g/)|
+fz ((3d/e/d/)|Bz ((3G/A/G/)|c2e|gz ((3g/a/g/)|
+c'z ((3g/a/g/)|ez ((3c/B/c/)|A2 c'|(b/a/g/)(f/e/d/)|
+(ag) e/c/|gf d/B/|cc'c'|c'2:|
+|:^F/G/|g2z|e2c|G2z|G ^F/G/A/G/|
+c B/c/d/c/|e d/e/f/e/|g2z|=fz/ (G//A//) (B//c//d//e//)|
+f2z|(f/e/d/)c/B/A/|G2z|(G/A/B/c/d/e/)|
+f2g|b/a/g/f/e/d/|ecc|"_DC"c2S|]
+CEG|ceg|c'ge|cGE|
+CEG|ceg|g^f=f|d2z|
+GBd|gdB|G"Pia"AG|FED|
+DB,A,|G,A,B,|CEG|c2"For"z|
+^f/g/a/g/f/g/|^d/e/=f/e/d/e/|B/c/=d/c/e/c/|G2g|
+(c'/b/) (c'/b/) (c'/b/)|c'/b/a/g/f/e/|g/^f/a/g/f/g/|d2z|
+f/e/ f/e/ f/e/|(f/e/d/c/B/A/)|(g/f/e/d/c/B/)|(A/G/^F/G/A/B/)|
+(c/d/e/c/f/e/)|(g/f/e/d/c/B/)|cc'c'|c'2"Da Capo":|
+
+X:96
+T:Spanish Waltz
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p95-0
+F:http://www.vwml.org/record/Moore2/4494/p95
+M:3/4
+N:The semiquavers in bar 9 should be quavers.
+N:The minims in bars 10, 11 and 12 have four dots above them.
+N:The meaning of these dots is unclear to the transcriber.
+L:1/8
+K:C
+G2|(Gc).e2.e2|(FA).d2.d2|(DF).B2.B2|a2g^fg2|
+(Gc).e2.e2|(FA).d2.d2|(DF).B2.B2|c4:|
+|:cB|c/d/e/f/^f/g/|L^g2c'4|Lc'2'd'4|Ld'2e'4|
+cdef^fg|^g2c'4|Lc'2'd'4|c'2z2:|
+
+X:97
+T:Steyrish Waltz, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p96-0
+F:http://www.vwml.org/record/Moore2/4494/p96
+M:3/4
+L:1/8
+K:G
+d>b|g2 d>g B>d|c>a f2 c>a|g>Ac>fA>c|B>g d2 B>g|
+d>GB>dG>B|E>e c2 A>a|f>Ac>fA>f|g2z2:|
+|:B>g|d>GB>dG>B|E>ec2A>a|f>Ac>fA>f|bgd2B>g|
+d>GB>dG>B|E>ec2A>a|f>Ac>fA>f|g2z2:|
+
+X:98
+T:Neapolitian Waltz, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p96-0
+F:http://www.vwml.org/record/Moore2/4494/p96
+M:3/4
+N:The tune runs over to page 97.
+N:Volta brackets are required at the end of the first and second strains.
+N:The last note of the third strain should be dotted.
+L:1/8
+K:C
+c>de>fg>a|a>gg>^fg2|a>ge>ce>g|gfd4|
+c>de>fg>a|a>gg>^fg2|c'>ge>cd>B|c4:|
+|:G|g3gec|gfd4|c/d/c/B/ cegc'|bc'd'bg2|
+g3gec|gfd4|cdefgc|c4:|
+|:gGeGcG|gGeGcG|dGBGBG|cGEGce|
+gGeGcG|gGeGcG|dGBGBG|c4:|
+
+X:99
+T:Vine Dressers, The
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p97-0
+F:http://www.vwml.org/record/Moore2/4494/p97
+M:6/8
+N:"Vine" looks right, not "Fine". Compare the V in St Vincent's Hornpipe on page 64.
+L:1/8
+K:A
+e|e2d cBA|e2e e2E|GFE BAG|dcB fed|
+c2e B2e|A2c e2d|c2e B2e|cAA A2|]
+[|c|B2AG2c|B2AG2c|B2A GAF|EGA Bcd|
+e2d cBA|f2e dcB|c2e B2e|cAA A2|]
+
+X:100
+T:Chatsworth House
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p98-0
+F:http://www.vwml.org/record/Moore2/4494/p98
+M:6/8
+N:The last bar should be crotchet-quaver-crotchet.
+N:The words "Tune playd strait through" appear at the end of the tune.
+L:1/8
+K:G
+d|{e/}d^cd Bgf|age d2c|Bdg bBc|edBA2d|
+d^cd Bgf|age d2c|BgB BAc|edF G2|]
+[|A|AFd dAF|GEe e^cA|AFa afd|e^cA d2A|
+AFd dAF|GEe e^cA|AGa afd|e^cAd2|]
+[|d|d>ed =c2B|A2Bc2a|aba g2f|g2a b2d|
+d>ed =c2B|A2Bc2a|aba g2f|g2b2g2|]
+W:Tune playd strait through
+
+X:101
+T:Soldiers Return, The
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p98-0
+F:http://www.vwml.org/record/Moore2/4494/p98
+M:2/4
+N:Six bars in the first strain and seven bars in the second strain.
+L:1/8
+K:C
+c|ec fa|ag gB|c3g|g^f ga|
+bc' a^f|g3:|
+|:g|c'2ge|a2de|fa gB|c2Bc|
+ec fa|ag gB|c3:|
+
+
+
+%abc
+%%abc-alias none
+%%abc-creator ABCexplorer 1.6.1 [04/05/2021]
+
+X:102
+T:Captain White
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p99-0
+F:http://www.vwml.org/record/Moore2/4494/p99
+M:6/8
+N:The last crotchet should be dotted.
+N:The words "Tune playd straight through" appear at the end of the tune.
+L:1/8
+K:D
+fefg2e|f2dA2d|B2dA2d|agf f2e|
+fef g2e|f2dA2d|B2dA2f|aged3|]
+[|d2D DFA|B2Ad2A|d2D DFA|B2AA3|
+d2D DFA|B2Ad2A|Agf edc|d3-d3|]
+[|f^ef d2B|^A2fd2B|f^ef d2B|^A2ce3|
+f^ef d2B|^A2g gf=e|fdB fec|B3-B2|]
+W:Tune play'd straight through
+
+X:103
+T:Bateuse, The
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p100-0
+F:http://www.vwml.org/record/Moore2/4494/p100
+M:6/8
+K:C
+There should be a quaver rest after the last note in the second strain.
+L:1/8
+K:G
+G/A/|B2B {c/}BAB|d2^c =c2A|B2B Bcd|A2A Aag|
+f2f fef|g2 g gfe|ded cBA|G2GG2|]
+B2e d2B|A2e d2c|B2c def|g2g gfg|b2a a2g|
+fga gfe|fga b^c'd'|aba gfe|d2d d2|]
+
+X:104
+T:Pavillion, The
+T:Dance
+S:John Moore's Book 2
+Z:Transcribed by Edmund Spriggs 05/2021
+%%VWML: Moore1-4494-p100-0
+F:http://www.vwml.org/record/Moore2/4494/p100
+M:6/8
+N:There should be a quaver rest after the last note in the second strain.
+L:1/8
+K:G
+B2c dBG|c2e d3|c2d B2G|FAd B2G|
+B2c dBG|c2e d2B|ABA d2F|A3G2z1|]
+FAB ABc|d2B G2A|BGd BGd|B3 A2F|
+FGA ABc|d2BG2A|BGd BGd|B3"D.C."A2|]
+
+
+
