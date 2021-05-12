@@ -1151,14 +1151,398 @@ A A/A/ A A/A/|(d2A)f|(d2A)f|{a/}ge {a/}ge |
 d2c2a/a/|a2f/f/ fd'/d'/|d'a/a/ af/f/|f2 e/>d/c/>B/|
 A2Fa/a/|af/f/ fd'/d'/|d'a/a/ af/f/|f2 e/>d/c/>e/|
 d/>c/d/>^d/ e/>c/A/>c/|d/>c/d/>^d/ e/>c/A/>c/|dd/d/ df|d2z1|]
-
-
-
-%abc
-%%abc-alias none
-%%abc-creator ABCexplorer 1.6.1 [03/05/2021]
-
 X:92
+T:Wellington Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p72-0
+F:http://www.vwml.org/record/Moore2/4494/p72
+M:C
+L:1/8
+K:G
+G2ge dcBA | (3Bcd FA GFED | A>D (3DDD B>D (3DDD | cABG GFED | 
+G2ge dcBA | (3Bcd FA GFED | GBAc Bdge | (3ded (3cBA G2z2 :| 
+|: b3a gfe^d | e^def e2B2 | e^def gfga | bgfg e3f | 
+g3e dcBA | BdFA GFED | GBAc Bdge | (3ded (3cBA G2 z2 :| 
+
+X:93
+T:Auld Lang Syne
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p72-0
+F:http://www.vwml.org/record/Moore2/4494/p72
+M:2/4
+L:1/8
+K:G
+D | G>GGB | AGAB | G<G Bd | e3 (f/g/) | 
+d>B B>G | A>GAB | G>E E>D | G3 :|
+|: e | (d<B) (B>G) | A>GA e | (d>B) (B>d) | He3 f/g/ | 
+(d<B) (B>G) | A>GA B/A/ | G<E E>D | G3 :|
+
+X:94
+T:Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p73-0
+F:http://www.vwml.org/record/Moore2/4494/p73
+M:C
+L:1/8
+K:G
+dB | Bcde dcBc | d2g2g2 dc | Bcde dBGB | (3ABA (3GFE D2 dc | 
+Bcde dBGB | e^def g2fe | dgec BdcA | G2G2G2 :|
+|: AG | FAFA FAFA | c2A2A2 AG | FAFA FAFA | e2d2d2 ef | 
+g2 dB GBGB | e2cA FAFA | g2dB ecAF | G2G2G2 :|
+
+X:95
+T:Saul, The
+T:Yank, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p73-0
+F:http://www.vwml.org/record/Moore2/4494/p73
+M:C
+L:1/8
+K:G
+G2{f}g2 E2{^d}e2 | A2d>c BAG2 | B>cd2 c>de2 | .d2.f2 g2z2 :| 
+|: B2B2 d3B | e>c A>G (GF)ED | B2B>c d3B | e>c A>F G4 :| 
+
+X:96
+T:Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p74-0
+F:http://www.vwml.org/record/Moore2/4494/p74
+M:C
+L:1/8
+K:D
+AB/c/ | dAFA dAFA | Bcde dcBA | f2ef gfed | cdef ecAc | 
+dAFA dAFA | Bcde dcBA | Acef gece | d2d2d2 :|
+|: fg | afdf afdf | bagf edcd | edcf gfed | cdef ecAc | 
+dAFA dAFA | Bcde dcBA | Acef gece | d2d2d2 :|
+
+X:97
+T:Green Green the Rushes all among the Bushes
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p74-0
+F:http://www.vwml.org/record/Moore2/4494/p74
+M:C
+L:1/8
+K:G
+G2G>A B>GG2 | A>A A/B/c/d/ eAA>B | c>dec B>cdB | (3ABc BA GEE2 :| 
+|: gfge dBAG | gfga be2f | gfge dB AG | ABBA GEE2 :|
+
+X:98
+T:Colledge Hornpipe, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p75-0
+F:http://www.vwml.org/record/Moore2/4494/p75
+M:C
+L:1/8
+K:D
+(dc) | d2D2 D2 (cB) | (FA).d.c d2(fd) | e2E2 E2(ed) | c2a2 a2(bc') | 
+(d'c')ba (ba)gf | (gf).e.d (dc).B.A | Bdce dfeg | f2d2d2 :|
+|: (AG) | (FA)dA FA dA | B2G2 G2(BA) | GB dB GB dB | c2A2 A2(ab) | 
+(d'c')ba (ba)gf | (gf).e.d (dc).B.A | Bdce dfeg | f2d2d2 :|
+
+X:99
+T:Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p76-0
+F:http://www.vwml.org/record/Moore2/4494/p76
+M:C
+L:1/8
+K:G
+D2 | GABc d2cB | cdef gfge | dBgf edcB | dcB2 AcBA | 
+GABc d2cB | cdef gfgd | Bdgb agfa | g2b2g2 :|
+|: Bc | dBdg eceg | dBdg eceg | dBgf edcB | dcB2 B2Bc | 
+dBdg eceg | dBdg eceg | Bdgb Adfa | g2b2g2 :|
+
+X:100
+T:Hornpipe
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p77-0
+F:http://www.vwml.org/record/Moore2/4494/p77
+M:C
+L:1/8
+K:G
+d2 | ^cded g2dB | dcAF G2FG | Aced cBAG | B2A2 A2Bc | 
+^cded g2dB | dcAF G2FG | AedB cDEF | A2G2G2 :|
+|: G2 | FDFA dcAF | GBdB g2fe | efgf abc'b | agfe dcBc | 
+^cded g2dB | dcAF G2FG | AedB cDEF | A2G2G2 :|
+
+X:101
+T:Quadrille Logic of Buchan
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p78-0
+F:http://www.vwml.org/record/Moore2/4494/p78
+M:6/8
+L:1/8
+K:D
+(A/>G/) | (F>G)A A(g>f) | (dB)B B2 (A/G/) | (F>G)A Ad>e | (fd)d d2 (A/G/) | 
+(F>G)A A(g>f) | (dB)B B2 (A/G/) | (F>G)A Ad>e | (fd)d d2 ||
+(d/e/) | (f>e)f afe | dBd d2 (d/e/) | fgf ede | fdB B2 (d/e/) | 
+fgf afe | dBc d2 (d/e/) | fgf ede | fdB d2 |]
+
+X:102
+T:St Patricks Day in the Morning
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p79-0
+F:http://www.vwml.org/record/Moore2/4494/p79
+M:6/8
+L:1/8
+K:D
+A | ded def | aba gfd | fgf fdA | BcB B2A | 
+ded def | aba afd | fgf fdA | B3 d2 :|
+|: a | abc' d'2b | c'2a bag | abc' d'2b | c'2a b3 | 
+abc' d'c'b | c'ba bc'd' | ded def | aba afd | 
+fgf fdA | BcB B2A | ded def | aba afd | 
+fgf fdA | B3 d2 :|
+
+X:103
+T:Garden of Lesmore
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p80-0
+F:http://www.vwml.org/record/Moore2/4494/p80
+N:1 Barline here in Mss, removed editorially
+N:2 Repeat sign here in Mss
+M:2/4
+L:1/8
+K:D
+A2 "*"E>A | c>A e>c | a>c e>c | B/B/B B2 | 
+A2 E>A | c>A e>c | d>B e>c | A/A/A A2 :| 
+a2 e>c | a>c e>c | a>c e>c | B/B/B B2 | 
+a2 e>c | A>e c>a | e>c B>c | A/A/A A2 || 
+A/B/c c>c | B/c/d d>d | c/d/e e>e | G/B/B B>B | 
+A/B/c c>c | B/c/d d>d | c>a e>c | A/A/A A2 ||
+(f/g/)a a>a | (g/f/)e e>e | (d/e/)f f>f | (e/d/)c c>c | 
+(B/c/)d d>d | c>a e>c | B>A B>c | A/A/A A2 "*2"|] 
+
+X:104
+T:Duke of Wellington March
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p81-0
+F:http://www.vwml.org/record/Moore2/4494/p81
+M:C
+L:1/8
+K:Bb
+B2B>B B2(3cde | d2B>B B2z2 | d2d>d d2(3def | f2d>d d2z2 | 
+g2e>e e2b>g | f2d>d d2b>g | d3f gfed | d>cc>c c2z2 | 
+B2B>B B2(3cde | d2B>B B2z2 | d2d>d d2(3def | f2d>d d2z2 | 
+g2e>e e2b>g | f2d>d d2z2 | f2(3gfe d2c2 | B2B>B B2z2 :|
+|: c4 fedc | d4 z2f2 | (f/e/d/e/) cz (e/d/c/d/) Bz | c6z2 | 
+B2B>B B2(d/c/B/A/) | B2G>G G2g2 | f2B>c d2c2 | B2B>B B2z2 :| 
+
+X:105
+T:Lodoiska
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p82-0
+F:http://www.vwml.org/record/Moore2/4494/p82
+N:B2(Bd) (c2e2)A2c2 in Mss
+M:2/4
+L:1/16
+K:Bb
+F2 | B2B>B B2B2 | B3F GABc |  d2d>d d3d | d3A Bcde | 
+f2f>f f2b2 | f2d>e f2b2 | f2de fedc | B6 ||
+F2 | B2B2 {B}(AG)(AF) | B2B2 {B}(AG)(AF) | B2(Bc) (ed)cB | ABcd cABc | 
+B2B2 {B}(AG)(AF) | B2B2 {B}(AG)(AF) | "*"B2(Bd) (ce)Ac | B6 ||
+|: B2 | (A2f2)f2f2 | (fe)dc B2B2 | A2F2 F2(GA) | (BABc) (dcdB) | 
+(A2a2)f2f2 | (fe)dc B2b2 | B2b2 (fe)dc | B2 b2 z2 :|
+
+X:106
+T:New Sailors Hornpipe, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p83-0
+F:http://www.vwml.org/record/Moore2/4494/p83
+M:C
+L:1/8
+K:Bb
+BGFE DB,DF | GEGB AFAc | dBec fdcB | A2c2 c2 BA | 
+BGFE DB,DF | GEGB AFAc | dBec dBcA | B2B2 B2z2 :|
+|: bfdB Bdfb | fdcB ABcd | edcB ABcd | c2F2 F2z2 | 
+BFFG _AGFE | DEFG _AGFE | Fffe dcBA | B2B2 B2z2 :| 
+
+X:107
+T:Drunken Parson, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p83-0
+F:http://www.vwml.org/record/Moore2/4494/p83
+M:6/8
+L:1/8
+K:G
+GBB Acc | Bdd c2A | GBB cBd | BGG G3 :| 
+|: GBd g2g | ecc c2B | Ace g2g | fdd d2c | 
+GBd g2g | ece d2c | BGB cAd | BGG G3 :| 
+
+X:108
+T:Quadrille
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p84-0
+F:http://www.vwml.org/record/Moore2/4494/p84
+N:Rest editorial
+M:6/8
+L:1/8
+K:D
+A | d2A d2A | d2A d2A | dce def | a2g e2A | 
+e2A e2A | e2A g2A | cde ABc | dfe d2 :|
+|: "*"z | aba d'2f | fgf a2d | dce def | a2g e2f | 
+gfg b2g | ede g2e | cde ABc | dfe d2 :|
+
+X:109
+T:Quadrille
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p84-0
+F:http://www.vwml.org/record/Moore2/4494/p84
+M:6/8
+L:1/8
+K:C
+G |: c3 cGe | c3 cGe | cGe cGe | c3 a2g | 
+gff fff | fee eee | edd dgB | c3-c3 :|
+|: d3 d^ce | d3 d^ce | d^ce dce | d3- d2g | 
+g^ff fee | edd dcc | cBB Ad^F | G3- G3 :| 
+
+X:110
+T:Quadrille
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p85-0
+F:http://www.vwml.org/record/Moore2/4494/p85
+M:6/8
+L:1/8
+K:D
+A | Aff cee | A3 A2B | A2F A2F | A2G E2A | 
+Aff cee | B3 BAG | FAF GEC | E3 D2 :|
+|: F | GEC A2G | FAd f2d | gec A2F | G3 F2F | 
+GEC A2G | FAd f2d | Bef gec | e3 e2 ||
+^A | B3 d3 | c3 ec^A | Bdf gec | B3 ^A3 | 
+B3 d3 | c3 e2c | edc dc^A | B3- B2 !D.C.!||
+
+X:111
+T:Dutch Ship
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p85-0
+F:http://www.vwml.org/record/Moore2/4494/p85
+M:6/8
+L:1/8
+K:C
+G2G GAB | G2G GAB | A2A ABc | BAG FED | 
+G2G GAB | G2 G2 G2 | Bcd edc | d3 d3 :| 
+|: FED FED | A2A ABc | BAG BAG | c2c cde | 
+dcB AGF | G3 G3 :| 
+
+X:112
+T:Quadrille
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p86-0
+F:http://www.vwml.org/record/Moore2/4494/p86
+M:6/8
+L:1/8
+K:D
+A | d2d dcd | A2d f3 | efg Bfe | cdB ABc | 
+d2d dcd | A2d f3 | efg Bfe | cBc d2 :|
+|: A | a3 g3 | f3 e3 | dcd Bed | cdB A2A | 
+a3 g3 | f3 e3 | dcd Bed | cBc d2 :|
+
+X:113
+T:Soldies Joy, The
+T:Soldiers Joy, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p86-0
+F:http://www.vwml.org/record/Moore2/4494/p86
+M:C
+L:1/8
+K:D
+FG | AFDF AFDF | A2d2 d2cB | AFDF AFDF | G2E2 E2FG | 
+AFDF AFDF | A2d2 d2g2 | fafd egec | d2d2 d2 :|
+|: de | fefg fagf | edcd efge | fefg fagf | edcB A2ag | 
+fefg fagf | edcd efge | fafd egec | d2d2 d2 :|
+
+X:114
+T:Jessy The Flower of Dunblane
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p89-0
+F:http://www.vwml.org/record/Moore2/4494/p89
+M:6/8
+L:1/8
+K:D
+(d/e/) | f>gf e>af | d>cd e>cd/B/ | A>BA FAd | def {g}e2d/e/ | 
+f>gf e>af | d>cd e>cd/B/ | A>BA F<Ad | e>Bc d3 ||
+f | f>de fba | fde fde | e>cd e<bf | e<cB {B}A2 A/d/ | 
+d>fe f<de | f>af g<ef | g>ab a<fd | e>Bc d2 d/B/ | 
+A>BA F>A (d/e/) | f>af ge<f | f>ab a<fd | e>Bc d2 ||
+
+X:115
+T:Murphy Delany
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p90-0
+F:http://www.vwml.org/record/Moore2/4494/p90
+M:6/8
+L:1/8
+K:G
+GFG GFG | GFG Bcd | GFG GFG | ABG FED | 
+GFG GFG | GFG Bcd | efg dcB | ABG FED ||
+Bcd ded | ded dcB | cde efe | efe edc | 
+Bcd ded | ded def | gfe dcB | ABG FED :| 
+
+X:116
+T:Quadrille
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p90-0
+F:http://www.vwml.org/record/Moore2/4494/p90
+M:2/4
+L:1/8
+K:C
+(c/d/) | e>fd>e | cage | Gcce | Gccd | 
+e>fd>e | cage | Gc e/d/c/d/ | ec c ||
+a | gcca | gcca | gcec | defa | 
+gcca | gcca | gcec | defg :| 
+
+X:117
+T:Birmingham March, The
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p91-0
+F:http://www.vwml.org/record/Moore2/4494/p91
+M:C
+L:1/8
+K:G
+d/c/ | B2BB BdcB | A2A>A A2B>c | edcB dcBA | G2G>G G2dc | 
+B2BB BdcB | A2A>A A2B>c | d2cB dcBA | G2G>G G2 :|
+|: gf | e2d>d d2GA | B2B>B B2gf | e2d>d d2cB | A2A>A A2d>c | 
+B2B>B BdcB | A2A>A A2B>c | d2cB dcBA | G2G>G G2 :|
+
+X:118
+T:Luck and No Luck
+S:John Moore's Book 2
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore2-4494-p91-0
+F:http://www.vwml.org/record/Moore2/4494/p91
+M:6/8
+L:1/8
+K:A
+c/d/ | efe eaf | ecA B2c/d/ | efe eaf | ecB A2 :|
+(e/c/) | dBA GBd | ecB Aec | dBA GBd | cdB A2 :|
+
+
+X:119
 T:Wrexham Quick March
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1182,7 +1566,7 @@ gfed|g>aba|g2f2|g2:||
 |:d/B/|Bgfg|egdg|cd/e/ dc|B2z1d/c/|
 Bgfg|e/g/f/g/|d/g/f/g/|e c'/b/a/g/f/|g3|]
 
-X:93
+X:120
 T:Wounded Hussar, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1197,7 +1581,7 @@ DGA B2A/ G/|A/B/ c/B/ A/G/ F G A|f> e d c A F|DGG !fermata!G2|]
 G/G/|B d d d2 c/ B/|A c c c2 f|d> g f g> a b|d g f !fermata!g2 g/a/|
 b2 g f e d |d/c/ B/B/ f (F G>) A/ A/|B d B d/c/ B/A/ G/F/|D G/ G !fermata![B2G2]|]
 
-X:94
+X:121
 T:Hare, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1210,7 +1594,7 @@ BGG G3|cAA A3|gfe dec|BGG G3:|
 |:bg/a/b G2a|gf/g/aF2a|gfg eag|fdd d3|
 ece g/a/bB|dBd g/a/bB|cBc Adc|BGG G3:|
 
-X:95
+X:122
 T:Rossingal Waltz, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1242,7 +1626,7 @@ DB,A,|G,A,B,|CEG|c2"For"z|
 f/e/ f/e/ f/e/|(f/e/d/c/B/A/)|(g/f/e/d/c/B/)|(A/G/^F/G/A/B/)|
 (c/d/e/c/f/e/)|(g/f/e/d/c/B/)|cc'c'|c'2"Da Capo":|
 
-X:96
+X:123
 T:Spanish Waltz
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1259,7 +1643,7 @@ G2|(Gc).e2.e2|(FA).d2.d2|(DF).B2.B2|a2g^fg2|
 |:cB|c/d/e/f/^f/g/|L^g2c'4|Lc'2'd'4|Ld'2e'4|
 cdef^fg|^g2c'4|Lc'2'd'4|c'2z2:|
 
-X:97
+X:124
 T:Steyrish Waltz, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1273,7 +1657,7 @@ d>GB>dG>B|E>e c2 A>a|f>Ac>fA>f|g2z2:|
 |:B>g|d>GB>dG>B|E>ec2A>a|f>Ac>fA>f|bgd2B>g|
 d>GB>dG>B|E>ec2A>a|f>Ac>fA>f|g2z2:|
 
-X:98
+X:125
 T:Neapolitian Waltz, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1292,7 +1676,7 @@ g3gec|gfd4|cdefgc|c4:|
 |:gGeGcG|gGeGcG|dGBGBG|cGEGce|
 gGeGcG|gGeGcG|dGBGBG|c4:|
 
-X:99
+X:126
 T:Vine Dressers, The
 T:Dance
 S:John Moore's Book 2
@@ -1308,7 +1692,7 @@ c2e B2e|A2c e2d|c2e B2e|cAA A2|]
 [|c|B2AG2c|B2AG2c|B2A GAF|EGA Bcd|
 e2d cBA|f2e dcB|c2e B2e|cAA A2|]
 
-X:100
+X:127
 T:Chatsworth House
 T:Dance
 S:John Moore's Book 2
@@ -1328,7 +1712,7 @@ AFd dAF|GEe e^cA|AGa afd|e^cAd2|]
 d>ed =c2B|A2Bc2a|aba g2f|g2b2g2|]
 W:Tune playd strait through
 
-X:101
+X:128
 T:Soldiers Return, The
 S:John Moore's Book 2
 Z:Transcribed by Edmund Spriggs 05/2021
@@ -1349,7 +1733,7 @@ ec fa|ag gB|c3:|
 %%abc-alias none
 %%abc-creator ABCexplorer 1.6.1 [04/05/2021]
 
-X:102
+X:129
 T:Captain White
 T:Dance
 S:John Moore's Book 2
@@ -1369,7 +1753,7 @@ d2D DFA|B2Ad2A|Agf edc|d3-d3|]
 f^ef d2B|^A2g gf=e|fdB fec|B3-B2|]
 W:Tune play'd straight through
 
-X:103
+X:130
 T:Bateuse, The
 T:Dance
 S:John Moore's Book 2
@@ -1386,7 +1770,7 @@ f2f fef|g2 g gfe|ded cBA|G2GG2|]
 B2e d2B|A2e d2c|B2c def|g2g gfg|b2a a2g|
 fga gfe|fga b^c'd'|aba gfe|d2d d2|]
 
-X:104
+X:131
 T:Pavillion, The
 T:Dance
 S:John Moore's Book 2
