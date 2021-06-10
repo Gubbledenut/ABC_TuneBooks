@@ -523,11 +523,11 @@ M:2/4
 L:1/8
 K:Bb
 V:1 dyn=up
-B|(d/c/d/e/)d A|(B/A/B/c/)d c|(Bcd) c|d3B|!p!BA (Ad)|(dc)c2|B2B2|(Ac2)c|c c/B/ A d|c2B2|!fermata! c3||z|zB B ð
+B|(d/c/d/e/)d A|(B/A/B/c/)d c|(Bcd) c|d3B|!p!BA (Ad)|(dc)c2|B2B2|(Ac2)c|c c/B/ A d|c2B2|!fermata! c3||z|zB B Ã°ÂÂÂ
 V:2
 z|z2zf|f f f g|f3f|f3f|z4|z4|z4|z2zg|a g f f | |f2=e2|!fermata!f3||f|f2f2|
 V:3
-"Air"F|(B/A/B/c/B) c|(d/c/d/e/f) e|dcB A|B3d|(dc) (cB)|(BA)A2|B2G2|A3c|f =e/d/ c ð A2G2|!fermata!F3||d|d2d2|
+"Air"F|(B/A/B/c/B) c|(d/c/d/e/f) e|dcB A|B3d|(dc) (cB)|(BA)A2|B2G2|A3c|f =e/d/ c Ã°ÂÂÂ A2G2|!fermata!F3||d|d2d2|
 V:4 clef=bass
 z|z2zF,|B, B, B, E,|(C,E,F,) F,,|B,,3 B,,|F,2F,2|F,2F,2|B,,2C,2|F,3=E,|F, G, A, B,|C2C,2|!fermata!F,3||z|zB, B, B,|
 
@@ -1020,4 +1020,230 @@ K:G
 [V:2]g3gg3g/e/|d2d2d4|]
 [V:3]e3e d>(ed/c/) (B/A/)|G2F2G4|]
 [V:4]C,>B,,C,/D,/ E,/F,/G,2B,,C,|D,2D,2G,,4|]
+
+
+X:71
+T:Denmark
+T:Before Jehovah’s Awful Throne
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore1-4495-p71-0
+F:https://www.vwml.org/record/Moore3/4495/p71
+M:2/4
+L:1/8
+K:D
+D | D2D2 | D2DE/F/ | E2E2 | E3F | 
+F2F2 | F2FG/A/ | AG FE | D4 ||
+|:  F2F> F | FG/A/ AF | E2EF/G/ | {G}[DF]4 | 
+d2A F | EF/G/ B2 | A2G2 | {A}F4 | 
+d2A F | GAB G | F2E2 | D2 :|
+[M:3/8]
+D | A>G F2 | G/B/ BA d/F/ | GF E | F4 |  
+A G/ F/ | G2 E2 | EF G2 | GF2 A | 
+de f2 | Bc d2 | A/B/A/G/ F2 | F2 E2 A/B/ |
+B2 {e}d/B/ | A2 G<F | GF E2 | F2 AB |
+B2 {e}d{c}B | AG F2 | GF E2 | D3 ||[M:2/4]!f! A |
+D2E2 | F2A2 | (A/G/F/G/A/G/) (F/E/) | 
+D3!p!A | f3a | (a/g/f/g/a/{g})g/ (f/e/) | !f!d3F | 
+F3A | d3f | (edc) e | (dcB) d | 
+cBA G | F2 |: !segno!!p! A | f2f2 | f3F | 
+GA Bc | d2d2 | e2e2 | !f!e3F | 
+GA Bc | d2 c2 | B2A2 | G2E2 | 
+F2G2 | F4 | E4 | D3 :: 
+|: d2z2 | d2 F> E | D2F2 | G2A2 | 
+D4 | F2F> F | G> G G> F | G> F E> D | A4 ||
+A2 (D/E/F/G/) | Az2F | BA GF | G3d | 
+cB AG | F3B | AG FE | FGA D | 
+F2E2 | D3!p!d | fe dc | d3f | 
+(ag) (fe) | f3d | (d/c/e/d/c/B/) (AG) | (FGA) D | 
+F2E2 | D4 :| 
+
+X:72
+T:Denmark Continued
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 05/2021
+%%VWML: Moore1-4495-p72-0
+F:https://www.vwml.org/record/Moore3/4495/p72
+N:Contiunued from page 71
+
+X:73
+T:Calcutta
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p73-0
+F:https://www.vwml.org/record/Moore3/4495/p73
+M:C
+L:1/8
+N:Mss water damaged, transcriber's best efforts!
+K:Eb
+V:1
+e2B2A2d2 | B2c2B2B2 | B2c2B2B2 | (GF) E2F4 ||
+A2F2B3B | c2B2B2G2 | B3B (G/F/E/F/) B2 | B2G2G4 ||
+z8 | z8 | G c A G G A G2 | B c B B B B A2 | 
+z8 | z4 z2 "Let thy" d d | e e e e d2 d d | e e e e d4 | 
+B2G2G2c2 | B2A2 G4 |] 
+V:2
+g2g2e2e2 | e2e2e2d2 | e2e2d2d2 | e2e2 d4 ||
+e3ee3e | e2d2e2B2 | e3e e3e | e2d2 e4 ||
+z8 | fd ef g2g2 | e e e e e e e2 | B A G F E f e2 | 
+z4 "Let thy"a(g/f/)g e | f d e c B2 f f | g g g g f2 f f | g g g g f4 | 
+e2e2e2e2 | e2d2 e4 |] 
+V:3
+B2e2G2B2 | E2A2G2F2 | G2c2 F2B2 | (EF) (GA) B4 ||
+c3A B2AG | A2F2A2E2 | e3c (B/A/B/c/)B G | G2B2 E4 ||
+BA AB c3c | AF GA B2B2 | E A G F E EB2 | B e d c B g f2 | 
+"Let thy" e(d/c/)d B (cB/A/B)G | AF GE B4- | \
+    B8- & [EG][EG][EG][EG] [DF]2 [DF][DF] | B8 & [EG][EG][EG][EG] [DF]4 |
+d2B2c2A2 | G2F2 E4 |] 
+V:4 clef=bass middle=d
+e2e2e2e2 | g2a2g2B2 | e2A2b2G2 | c2c2 c4 ||
+a3a g3g | f3Bd2e2 | g3a e3A | B2B2 e2e2 ||
+z8 | z8 | c c c c c c c c | B B B B B B B B | 
+z8 | z4z2 bb | e'bge b2b b | e'bge c4 | 
+e2G2a2f2 | b2B2 e4 |] 
+W:O'er those gloomy hills of darkness, Look, my soul
+W:be still, and gaze; All the promises do travail 
+W:With a glorious day of grace: Blessed jubilee! Let thy 
+W:
+W: NB. Mss water damaged, transcriber's best efforts!
+
+X:74
+T:Calcutta Continued
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p74-0
+F:https://www.vwml.org/record/Moore3/4495/p74
+N:Continued from page 73
+
+X:75
+T:[No given title]
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p75-0
+F:https://www.vwml.org/record/Moore3/4495/p75
+M:C
+L:1/4
+K:G
+V:1
+a3g | b2b2 | b2a2 | a4 ||
+A2 | ffgg | eefa | aa3 | 
+aaga | aa3 | a2^g2 | 
+V:2
+F3 F | F2F2 | G2E2 | F4 ||
+F2 | ddBB | ccde | dc3 | 
+dc(BA | G)c3 | A2B2 | 
+V:3
+d3d | d2d2 | e2c2 | d4 ||
+d2 | ffdd | eefg | fe3 | 
+fe(dc | B)e3 | c2d2 | 
+V:4 clef=bass middle=d
+d3d | B2B2 | G2A2 | d4 ||
+E2 | ffdd | cc(AG) | Fc3 |
+fedc | BG3 | c2c2 | 
+
+X:76
+T:Christ's Church
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p76-0
+N:Inconsistencies in Mss
+F:https://www.vwml.org/record/Moore3/4495/p76
+M:C
+L:1/4
+K:G
+V:1
+z2 G2 | (d>c)(B>c) | d3 e | (dc)(BA) | 
+G3B | G2d2 | (Bcd)g | (fe)(d>c) | 
+d2 || [Bd] | [Bd]2 [GB]2 | 
+V:2
+z2 e2 | e2e2 | G3A | B2B2 | 
+E3e | d2B2 | ecde | d2F2 | 
+G2 || z | z4 | 
+V:3
+[ec]3 [dB] | [dA][cA][cA][GB] | [BG][FA]2D | GGAA |
+B>cdd | gddc | e3 e | e3 e | 
+dFGc | B2A2 | G2 |
+V:4 clef=bass middle=d
+z4 | z4 | z3d | eBcd | 
+gggz | z4 | z4 | z4 | 
+c'bag | fdec | d2 d2 | G4 | 
+
+X:77
+T:Portugal
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p77-0
+F:https://www.vwml.org/record/Moore3/4495/p77
+M:C
+L:1/4
+K:A
+V:1
+zeeg | aef(e/d/) | c2ze | e(3f/g/a/ g2 | 
+gfe^d | e2z || a | aaba | aa(ag) | 
+zeeg | a(e/a/)f{e}d | c2 z2 |]
+V:2
+zEc(e/d/) | c(e/c/) (B/A/)G | A2zA | Bc/^d/e2 | 
+e(cB)A | G2z || A | (c/e/) Adc | (e/c/) (c//A//c//e//) e2 | 
+zEc (e/d/) | c(e/c/) (B/A/) G | A2 z2 |]
+V:3
+"Air largo"
+zEAB | (c/A/) (c/e/) (d/c/)B | A2zc | BA(B/>A/)B | 
+(3E/G/B/ AGF | E2z || e | (e/c/) (e/f/) (d/B/) (c/e/) | (c/A/) (e/c/) (cB) |
+zEAB | (c/A/) (c/e/) (d/c/) B | A2 z2 |]
+V:4 clef=bass middle=d
+z[Ae]Ae | aade | A2za | gfe2 | 
+g(ab)B | e2z || c' | (c'/a/) (c'/d'/) (b/g/) a | aA e2 | z[Ae] Ae |
+aade | A2 z2 |]
+
+X:78
+T:Portugal Continued
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p78-0
+F:https://www.vwml.org/record/Moore3/4495/p78
+N:Continuation of page 77
+
+X:79
+T:Derby
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p79-0
+F:https://www.vwml.org/record/Moore3/4495/p79
+M:C|
+L:1/4
+K:C
+V:1
+e2gf | e2a2 | a2g2 | [eg]4 | 
+z4 | z4 | z4 | z4 ||
+g2gg | eca^f | g4 | z4 |
+ff/ e/ dd | e>f Hg2 | gg/ g/ ee | a2g2 | 
+e4 ||
+V:2
+G2cB | c2c2 | f2d2 | e4 |
+c2cd | (e>d)cc | (BAG)F | E4 ||
+c2BB | cedA | B4 | z4 |
+z4 | Hz4 | ec/ G/ Ac | f2 {e}d2 | 
+c4 ||
+V:3
+"Air"
+c2ed | c2{B}A2 | d2{c}B2 | c4 |
+c2cd | (e>dc)c | (BAG) [BF] | [Ec]4 ||
+!f!e2 dd | cc {B}AB/c/ | d4 | z4 |
+dd/c/ BB | c>d He2 | e e/ d/ cc | d2B2 | 
+c4 ||
+V:4 clef=bass middle=d
+c2cd | e2f2 | d2g2 | c4 |
+c'2e'b | (c'>b)aa | (gfe)d | c4 ||
+c'2gg | bbdd | g4 | c'c'/ b/ aa | 
+f2g2 | Hc4 | c'c'/ b/ aa | f2g2 | 
+c4 ||
+
+X:80
+T:Derby Continued
+S:John Moore's Book 3
+Z:Transcribed by Steve Mansfield 06/2021
+%%VWML: Moore1-4495-p80-0
+F:https://www.vwml.org/record/Moore3/4495/p80
+N:Continuation of page 79
+
 
